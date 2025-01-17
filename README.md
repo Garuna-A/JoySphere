@@ -1,6 +1,7 @@
 # JoySphere
 
-Live Demo -> [JoySphere](https://garuna-a.github.io/JoySphere/)
+- **Live Demo** -> [JoySphere](https://garuna-a.github.io/JoySphere/)
+
 JoySphere is an interactive web application designed to create a visually blissful experience. As the user submits positive input, a circle grows and becomes greener, representing the positive energy. The page's color scheme dynamically changes with the circle, enhancing the overall feeling of joy and calm. The user’s experience is added to the page, making the interaction more personal and engaging.
 
 ## Features
